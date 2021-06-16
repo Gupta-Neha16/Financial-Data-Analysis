@@ -28,7 +28,8 @@ The bar chart below shows the total count of students and the total count of peo
 
 <img width="1002" alt="Screen Shot 2021-06-11 at 9 02 43 PM" src="https://user-images.githubusercontent.com/29782408/121761910-5fa0b580-caf8-11eb-9cef-ca2d02d42eeb.png">
 
-The boxplot below highlights the range of loan balance left for people who have defaulted Vs people who have not defaulted on their payments. It also shows a the range of income of the people who have defaulted vs the income of the people who have not defaulted. 
+The boxplot below highlights the range of loan balance left for people who have defaulted Vs people who have not defaulted on their payments. It also shows a the range of income of the people who have defaulted vs the income of the people who have not defaulted. The people who have defaulted have a similar salary range to people who have not dafaulted on their loan balance.
+
 We are also able to see the outliers in the balance boxplot.
 
 <img width="922" alt="Screen Shot 2021-06-11 at 9 05 22 PM" src="https://user-images.githubusercontent.com/29782408/121761962-bdcd9880-caf8-11eb-95be-040e8fec5993.png">
