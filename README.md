@@ -7,7 +7,7 @@ The goal is to understand relationship between a person's income, loan balance, 
 
 The columns in the data set are - 'default', 'student', 'balance' and 'income'
 
-Top 4 rows from the dataset -
+Top 5 rows from the dataset -
 
 <img width="258" alt="Screen Shot 2021-06-11 at 8 46 03 PM" src="https://user-images.githubusercontent.com/29782408/121761547-0b94d180-caf6-11eb-8592-aaf8aa6e6266.png">
 
